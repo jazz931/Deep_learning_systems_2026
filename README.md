@@ -83,7 +83,7 @@ TEST PASSED SUCCESSFULLY
 * В консоли отображается статус TEST PASSED SUCCESSFULLY
 * В папке output/ создаётся файл deepface_result.json с полным отчётом анализа
 * Веса моделей сохраняются в .deepface_weights/
-Пример содержимого output/deepface_result.json:
+* Пример содержимого output/deepface_result.json:
 ```json
 [
     {
