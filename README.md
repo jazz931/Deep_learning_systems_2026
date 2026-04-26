@@ -27,7 +27,7 @@
 
 ### Шаг 2: Перейти в папку проекта
   ```console
-  cd deepface
+  cd Deep_learning_systems_2026
   ```
 
 ### Шаг 3: Запустить Docker Desktop
